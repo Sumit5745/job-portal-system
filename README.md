@@ -1,6 +1,8 @@
+# job-portal-system
+A robust full-stack Job Portal System built using the MERN stack (MongoDB, Express.js, React.js, Node.js). This platform is designed to connect job seekers and recruiters seamlessly, providing a user-friendly interface and powerful features to streamline job searching and recruitment processes. and also admin panel for trake users activity..
 
+this system contains three types of users : 
+1.recruiter
+2.job_seeker 
+3.admin
 
-
-
-
-A robust full-stack Job Portal System built using the MERN stack (MongoDB, Express.js, React.js, Node.js). This platform is designed to connect job seekers and recruiters seamlessly, providing a user-friendly interface and powerful features to streamline job searching and recruitment processes. 
