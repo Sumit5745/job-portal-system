@@ -131,5 +131,5 @@ Contributions are welcome! Please follow these steps:
 
 For any inquiries or feedback, please contact:
 
-- **Primary Email**: [sumitchavada45@example.com](mailto:sumitchavada45@example.com)
+- **Primary Email**: [sumitchavada45@gmail.com](mailto:sumitchavada45@gmail.com)
 - **Work Email**: [sumitchavadawork45@gmail.com](mailto:sumitchavadawork45@gmail.com)
